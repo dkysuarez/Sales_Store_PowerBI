@@ -26,11 +26,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sales-quality-analysis-powerbi.git
+    git clone https://github.com/dkysuarez/Sales_Store_PowerBI
     ```
 
 2. **Open the Power BI file**:
-    - Open the `.pbix` file in Power BI Desktop.
+    - Open the `Super Store Sales.pbix` file in Power BI Desktop.
 
 3. **Connect to your data source**:
     - Update the data source settings to connect to your own sales data.
